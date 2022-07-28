@@ -1,3 +1,3 @@
-# This is a Simple Exercise Application Called EFU App
+# EFU Workout iOS App
 
-### It's objective is to provide people exercise programs.
+EFU workout application is developed with React Native and JavaScript. This application is a basic gym application that provides workout programs to users who are logged in.
